@@ -40,7 +40,7 @@
       <td>https://github.com/johnathanresende/Exercicios/blob/master/intro_pandas.ipynb</td>
     </tr>
     <tr>
-      <th scope="row">6</th>
+      <th scope="row">7</th>
       <td>Data Mining em PDF</td>
       <td>https://github.com/johnathanresende/Exercicios/blob/master/pdf_mining.ipynb</td>
     </tr>
