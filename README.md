@@ -1,5 +1,7 @@
 # Exercicios
 
+Alguns exercícios que fiz:
+
 <table class="table">
   <thead>
     <tr>
